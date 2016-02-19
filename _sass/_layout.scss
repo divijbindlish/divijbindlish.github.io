@@ -23,7 +23,7 @@
     color: $black-color;
 
     &:hover {
-        color: lighten($brand-color, 10%);
+        color: lighten($black-color, 25%);
         text-decoration: none;
     }
 }
@@ -93,39 +93,41 @@
 }
 
 .post-title {
-    font-size: 42px;
-    letter-spacing: -1px;
+    font-size: 2em;
     line-height: 1;
+}
 
-    @include media-query($on-laptop) {
-        font-size: 36px;
+.post-desc {
+    color: #777;
+    font-size: 1.25em;
+    font-weight: 300;
+}
+
+.post {
+    font-family: $text-font-family;
+
+    h1, h2, h3, h4, h5, h6 {
+        font-family: $base-font-family;
+
     }
 }
 
 .post-content {
+    font-size: 1.1em;
     margin-bottom: $spacing-unit;
 
+    h2, h3, h4, h5, h6 {
+        margin-top: 1.2em;
+        margin-bottom: 1.2em;
+        font-weight: 400;
+    }
+
+    p, ul, ol {
+        margin-top: 1.5em;
+        margin-bottom: 1.5em;
+    }
+
     h2 {
-        font-size: 32px;
-
-        @include media-query($on-laptop) {
-            font-size: 28px;
-        }
-    }
-
-    h3 {
-        font-size: 26px;
-
-        @include media-query($on-laptop) {
-            font-size: 22px;
-        }
-    }
-
-    h4 {
-        font-size: 20px;
-
-        @include media-query($on-laptop) {
-            font-size: 18px;
-        }
+        font-size: 1.375em;
     }
 }

@@ -14,13 +14,11 @@ After joining, I was introduced to a lot of new stuff like Git, Node, Python, Ba
 
 Another great thing about the environment is the geek-speak that flows about. Just listening to all the conversations in the lab will tell you something new about an open source library, why the new application for android is really cool, why a new startup is bound to fail etc. This list is endless as well.
 
-## My Work
+## Muzi
 
-### Muzi
+I first tried using Muzi back in my first semester when one of my friends told me about this awesome web portal for the campus that provides an amazing music player. Since then, I have used it almost everyday. It has been a great joy to actually work on the application and see your changes live on the final deployed version that people across the entire campus use everyday. I worked on the new UI for displaying top tracks for each artist which helps a user to find good music a lot quicker. I also did some work on debugging the application, fixing the infamous double play bug, that used to play two songs at the same time. The part that I liked best was that there was absolutely no restriction for me to work on any of the existing projects. All of the source code was available to me and I could make any modification that would make the overall experience better for the user.
 
-I first tried using Muzi back in my first semester when one of my friends told me about this awesome web portal for the campus that provides an amazing music player. Since then, I have used it almost everyday. It has been a great joy to actually work on the application and see your changes live on the final deployed version that people across the entire campus use everyday. I worked on the new UI for displaying top tracks for each artist which helps a user to find good music a lot quicker. I also did some work on debugging the application, fixing the __infamous__ double play bug, that used to play two songs at the same time. The part that I liked best was that there was absolutely no restriction for me to work on any of the existing projects. All of the source code was available to me and I could make any modification that would make the overall experience better for the user.
-
-### API
+## API
 
 I worked on the central API that supports all of our applications on the portal. Through this project, I got to learn how a web portal should be structured. This project involved making few changes across all applications and as a result, I got to know what are the best practices that should be followed. I also learned about cross domain resource sharing and preventing attacks that use the same. The main point is that working on any lab project teaches you something that you do not know and helps you to become better. Other lab members, sometime from the same year, will always be there to guide you whenever you are stuck.
 
