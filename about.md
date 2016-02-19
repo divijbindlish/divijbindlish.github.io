@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am a senior year student at the Indian Institute of Technology, Roorkee currently pursuing a B.Tech in Electrical Engineering. I have been working with software for the past 4 years and have made some projects, a few of which are available on [GitHub](https://github.com/divijbindlish).
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I am an avid reader of HackerNews and regularly follow the latest developments in science, technology, business and economy.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Member of [SDSLabs](https://sdslabs.co), an awesome student group constantly striving to innovate and foster technical activities @IITR.
